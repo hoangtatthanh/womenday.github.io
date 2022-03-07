@@ -266,11 +266,12 @@ a:focus {
 }
 
 .content__title-sub2 {
-	color: var(--color-text);
+	color: var(--color-content-title-sub);
 	font-size: 2vw;
 	display: block;
 	line-height: 1;	
 	text-align: center;
+	padding-bottom: 10px;
 }
 
 .content__title-sub {
